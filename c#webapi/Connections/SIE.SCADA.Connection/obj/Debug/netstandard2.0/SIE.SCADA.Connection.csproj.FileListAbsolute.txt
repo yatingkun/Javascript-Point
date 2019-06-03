@@ -1,0 +1,9 @@
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\netstandard2.0\SIE.SCADA.Connection.deps.json
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\netstandard2.0\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\netstandard2.0\SIE.SCADA.Connection.pdb
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.csprojAssemblyReference.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.csproj.CoreCompileInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.AssemblyInfoInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.AssemblyInfo.cs
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\netstandard2.0\SIE.SCADA.Connection.pdb

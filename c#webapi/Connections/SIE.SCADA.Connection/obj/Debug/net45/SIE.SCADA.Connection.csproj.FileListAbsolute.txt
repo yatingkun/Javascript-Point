@@ -1,0 +1,10 @@
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net45\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net45\SIE.SCADA.Connection.pdb
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net45\Newtonsoft.Json.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.csprojAssemblyReference.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.csproj.CoreCompileInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.AssemblyInfoInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.AssemblyInfo.cs
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.csproj.CopyComplete
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net45\SIE.SCADA.Connection.pdb

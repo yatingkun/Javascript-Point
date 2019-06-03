@@ -1,0 +1,15 @@
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\SIE.SCADA.Connection.pdb
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\Newtonsoft.Json.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\System.Net.Http.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.csprojAssemblyReference.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.csproj.CoreCompileInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.AssemblyInfoInputs.cache
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.AssemblyInfo.cs
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.csproj.CopyComplete
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.dll
+E:\SMDC-2019.4.29\Connections\SIE.SCADA.Connection\obj\Debug\net461\SIE.SCADA.Connection.pdb
